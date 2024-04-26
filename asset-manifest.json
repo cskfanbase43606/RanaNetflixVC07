@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RanaNetflixVC07/static/css/main.f9aa6514.css",
+    "main.js": "/RanaNetflixVC07/static/js/main.84cda3e4.js",
+    "static/js/592.7402423b.chunk.js": "/RanaNetflixVC07/static/js/592.7402423b.chunk.js",
+    "index.html": "/RanaNetflixVC07/index.html",
+    "main.f9aa6514.css.map": "/RanaNetflixVC07/static/css/main.f9aa6514.css.map",
+    "main.84cda3e4.js.map": "/RanaNetflixVC07/static/js/main.84cda3e4.js.map",
+    "592.7402423b.chunk.js.map": "/RanaNetflixVC07/static/js/592.7402423b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9aa6514.css",
+    "static/js/main.84cda3e4.js"
+  ]
+}
